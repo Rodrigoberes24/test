@@ -43,30 +43,4 @@
     "sponsor": "did:com:valoper1ttxcnevaxlk58u4uuec2n7cm44rk9tsgmyj4hg",
     "primary": false
   },
-  {
-    "id": "osmosis-mainnet",
-    "name": "Osmosis",
-    "http_url": "https://lcd.osmosis.zone",
-    "grpc_url": "http://grpc.osmosis.zone:9090",
-    "explorer_url": "https://www.mintscan.io/osmosis",
-    "bech32_hrp": "osmo",
-    "tokens": [
-      "uosmo"
-    ],
-    "sponsor": "",
-    "primary": true
-  },
-  {
-    "id": "osmo-com-dev",
-    "name": "Osmosis",
-    "http_url": "https://134.209.250.76:1317",
-    "grpc_url": "http://134.209.250.76:9090",
-    "explorer_url": "https://134.209.250.76:1317",
-    "bech32_hrp": "osmo",
-    "tokens": [
-      "uosmo"
-    ],
-    "sponsor": "",
-    "primary": true
-  }
 ]

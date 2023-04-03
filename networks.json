@@ -1,4 +1,5 @@
-
+//Le chains disponibili possono essere modificate rapidamente da un repository github, 
+//non ci vuole inviare una nuova versione all'appstore e al playstore
 [
   {
     "id": "commercio-mainnet",

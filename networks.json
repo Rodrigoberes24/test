@@ -1,0 +1,70 @@
+[
+  {
+    "id": "commercio-mainnet",
+    "name": "Commercio",
+    "http_url": "https://lcd-mainnet.commercio.network",
+    "grpc_url": "http://grpc-mainnet.commercio.network:9090",
+    "explorer_url": "https://mainnet.commercio.network",
+    "bech32_hrp": "did:com:",
+    "tokens": [
+      "ucommercio",
+      "uccc"
+    ],
+    "sponsor": "did:com:valoper1fkg9n68ww7yrcr69sq58830nqqakywahxvu2mu",
+    "primary": true
+  },
+  {
+    "id": "commercio-devnet",
+    "name": "Commercio",
+    "http_url": "https://lcd-demo.commercio.network",
+    "grpc_url": "http://grpc-demo.commercio.network:9090",
+    "explorer_url": "https://devnet.commercio.network",
+    "bech32_hrp": "did:com:",
+    "tokens": [
+      "ucommercio",
+      "uccc"
+    ],
+    "sponsor": "",
+    "primary": false
+  },
+  {
+    "id": "commercio-testnet",
+    "name": "Commercio",
+    "http_url": "https://lcd-testnet.commercio.network",
+    "grpc_url": "http://grpc-testnet.commercio.network:9090",
+    "explorer_url": "https://testnet.commercio.network",
+    "bech32_hrp": "did:com:",
+    "tokens": [
+      "ucommercio",
+      "uccc"
+    ],
+    "sponsor": "did:com:valoper1ttxcnevaxlk58u4uuec2n7cm44rk9tsgmyj4hg",
+    "primary": false
+  },
+  {
+    "id": "osmosis-mainnet",
+    "name": "Osmosis",
+    "http_url": "https://lcd.osmosis.zone",
+    "grpc_url": "http://grpc.osmosis.zone:9090",
+    "explorer_url": "https://www.mintscan.io/osmosis",
+    "bech32_hrp": "osmo",
+    "tokens": [
+      "uosmo"
+    ],
+    "sponsor": "",
+    "primary": true
+  },
+  {
+    "id": "osmo-com-dev",
+    "name": "Osmosis",
+    "http_url": "https://134.209.250.76:1317",
+    "grpc_url": "http://134.209.250.76:9090",
+    "explorer_url": "https://134.209.250.76:1317",
+    "bech32_hrp": "osmo",
+    "tokens": [
+      "uosmo"
+    ],
+    "sponsor": "",
+    "primary": true
+  }
+]

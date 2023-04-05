@@ -2,45 +2,18 @@
 //non ci vuole inviare una nuova versione all'appstore e al playstore
 [
   {
-    "id": "commercio-mainnet",
-    "name": "Commercio",
-    "http_url": "https://lcd-mainnet.commercio.network",
-    "grpc_url": "http://grpc-mainnet.commercio.network:9090",
-    "explorer_url": "https://mainnet.commercio.network",
-    "bech32_hrp": "did:com:",
-    "tokens": [
-      "ucommercio",
-      "uccc"
-    ],
-    "sponsor": "did:com:valoper1fkg9n68ww7yrcr69sq58830nqqakywahxvu2mu",
-    "primary": true
-  },
-  {
-    "id": "commercio-devnet",
-    "name": "Commercio",
-    "http_url": "https://lcd-demo.commercio.network",
-    "grpc_url": "http://grpc-demo.commercio.network:9090",
-    "explorer_url": "https://devnet.commercio.network",
-    "bech32_hrp": "did:com:",
+    "id": "",
+    "name": "",
+    "http_url": "",
+    "grpc_url": "",
+    "explorer_url": "",
+    "bech32_hrp": "",
     "tokens": [
       "ucommercio",
       "uccc"
     ],
     "sponsor": "",
-    "primary": false
+    "primary": true
   },
-  {
-    "id": "commercio-testnet",
-    "name": "Commercio",
-    "http_url": "https://lcd-testnet.commercio.network",
-    "grpc_url": "http://grpc-testnet.commercio.network:9090",
-    "explorer_url": "https://testnet.commercio.network",
-    "bech32_hrp": "did:com:",
-    "tokens": [
-      "ucommercio",
-      "uccc"
-    ],
-    "sponsor": "did:com:valoper1ttxcnevaxlk58u4uuec2n7cm44rk9tsgmyj4hg",
-    "primary": false
-  },
+ 
 ]
